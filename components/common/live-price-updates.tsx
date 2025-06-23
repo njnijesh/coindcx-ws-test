@@ -124,6 +124,13 @@ const LiveData = () => {
                 https://github.com/njnijesh/coindcx-ws-test
               </Link>
             </li>
+            <li>
+              • Live URL:{" "}
+              <Link href="https://coindcx-ws-test.vercel.app">
+                {" "}
+                https://coindcx-ws-test.vercel.app
+              </Link>
+            </li>
           </ul>
           <p className="text-xs text-blue-600 mt-2">
             Open browser DevTools Console to see live data updates
